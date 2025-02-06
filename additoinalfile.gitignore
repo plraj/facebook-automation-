@@ -1,0 +1,4 @@
+.env
+facebook_session.json
+facebook_images/
+__pycache__/
