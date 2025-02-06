@@ -8,7 +8,7 @@ import base64
 import profile_checker
 
 # ✅ Initialize Gemini API
-API_KEY = "AIzaSyDkcOkzFf4a-h8oKkhAGwp-lb1nhYIIsBc"
+
 genai.configure(api_key = API_KEY)
 
 # ✅ Create folder for images
